@@ -122,6 +122,7 @@ const StyledHome = styled.div`
       font-size: 2rem;
       color:#5caff3;
       font-family: comic sans ms;
+      text-align: center;
     }
   }
   .buttons{
